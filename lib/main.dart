@@ -32,7 +32,7 @@ class _MyAppState extends State<MyApp> {
             );
 
           },),
-          title: const Text("Earnings store"),
+          title: const Text("Earings store"),
           centerTitle: true,
         ),
         body:
