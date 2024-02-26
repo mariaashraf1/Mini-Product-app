@@ -15,8 +15,8 @@ A simple and elegant Flutter application designed as a mini e-commerce store for
 Here is a short screenshots of the application:
 
 <div style="display: flex; gap: 10px;">
-  <img src="Screenshot_20230424_144401.png" width="300"/>
-  <img src="Screenshot_20230424_144457.png" width="300"/>
+  <img src="screen shots/Screenshot_20230424_144401.png" width="300"/>
+  <img src="screen shots/Screenshot_20230424_144457.png" width="300"/>
 </div>
 
 ## Technologies Used
